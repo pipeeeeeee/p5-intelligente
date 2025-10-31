@@ -73,6 +73,7 @@ public class CSPSolver<V> {
 	 * 			   a TODOS los arcos/restricciones del problema
 	 */
 	private boolean AC3( CSP<V> csp ){
+		
 		// TODO Completar
 		return false;
 	}
